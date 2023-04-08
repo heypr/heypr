@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![hyper's GitHub stats](https://github-readme-stats.vercel.app/api?username=heypr&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heypr&show_icons=true&theme=transparent)
+
 
 <!--
 **heypr/heypr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
